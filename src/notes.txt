@@ -1,0 +1,8 @@
+-react is mainly used to create single page applications.
+
+what us virtual DOM?
+-virtual DOM is virtual reprrsentation of a UI is kept is a memory later synced with real DOM with the help of a library called "ReactDOM".
+
+-the updation of real dom with virtual Box.
+components:
+-components are the files/modules which consists of js 
