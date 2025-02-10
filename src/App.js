@@ -1,11 +1,19 @@
+// import React from 'react'
+// import UseEffectEx from './hooksExample/UseEffectEx' 
+// const App() {
+//   return (
+//     <div>
+//       <UseEffectEx/>
+//     </div>
+//   )
+// }
+// export default App
+
 import React from 'react'
-import FBCStateEx from './components/stateexample/FBCStateEx'; 
-const App=()=>{
+import UseEffectEx from './components/hooksExample.js/UseEffectEx'
+ const App = () => {
   return (
-    // <CBCStateEx/>
-    <FBCStateEx/>
-    
+    <div><UseEffectEx/></div>
   )
 }
-export default App;
- 
+export default App

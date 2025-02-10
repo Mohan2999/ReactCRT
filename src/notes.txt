@@ -6,3 +6,21 @@ what us virtual DOM?
 -the updation of real dom with virtual Box.
 components:
 -components are the files/modules which consists of js 
+
+
+state******
+-state is an mutable object which is used to store or isolate the data in the inside the component.
+
+class component*****
+-class component is having the state object by default.
+
+functional components######
+-by default functional component stateless because there is no state object.
+-in react v16.8 , they introduce a concept called as "Hooks".
+syntax:- const[state , setstate] = useState(initialValue);
+
+
+useEffects():-
+----------------
+-it allowes developers to makle changes / side effects inside the componenet.
+syntax:- useEffect(callbackfn , dependency);
